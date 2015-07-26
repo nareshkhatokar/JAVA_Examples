@@ -1,0 +1,35 @@
+1. Create abstract classes and interfaces and try to override the method behaviour in the implementation class.
+
+2. Program to explain Method overloading and overriding. Take (Reservation as an example)
+    - Book reservation without discount
+    - Book reservation with concession
+    - Book reservation on a particular day
+4. Write a program to read contents of a file from your directory and write to a new file.
+5. Write a program to implement different types of constructors
+6. Write a program to show the report card of a student using
+   if, if-else and switch case
+
+   
+   
+7. Write a program to loop numbers from 1 to 100 and print only the odd numbers from 1 to 100 using for, while and do-while loops
+8. Write a program to perform String operations using String, StringBuffer and StringBuilder.
+9. Write a program to find if a string is anagram or not.
+   search in google what do you mean by anagram.
+10. Write a program to swap 2 different strings without using third variable 
+    - Try to use concatenation and substrings
+11. Write a program that shows the complete Exception handling explanation
+12. Write  a program and call the static blocks and methods without object creation
+13. Write a program to implement threading in java - different ways
+14. Write a program to use all the datatypes discussed in java 
+     - int, float, double, boolean, arrays
+15. Write a program to implement synchronization in mutithreading
+
+
+
+
+
+
+3. Write a program that uses final, finally and finalize
+
+
+
